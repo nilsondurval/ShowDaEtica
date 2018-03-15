@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Show de Ética Salesiano</string>
+    <string name="activity_inicial_titulo">Show de Ética Salesiano</string>
+    <string name="button_iniciar_quiz">Iniciar Quiz</string>
+    <string name="text_view_pergunta">{Pergunta}</string>
+    <string name="button_responder">Responder</string>
+    <string name="radio_button_opt1">{Opção 1}</string>
+    <string name="radio_button_opt2">{Opção 2}</string>
+    <string name="radio_button_opt3">{Opção 3}</string>
+    <string name="radio_button_opt4">{Opção 4}</string>
+    <string name="text_view_ranking">Ranking</string>
+    <string name="text_view_voltar">Início</string>
+    <string name="text_view_jogar">Jogar</string>
+    <string name="text_view_resultado">{Resultado}</string>
+    <string name="edit_text_nome">informe um nome para o ranking…</string>
+    <string name="button_ranking">Ir para o ranking</string>
+    <string name="titulo">Show de Ética</string>
+</resources>
