@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Show da Ética</string>
-    <string name="activity_inicial_titulo">Show da Ética</string>
+    <string name="app_name">Show de Ética</string>
+    <string name="activity_inicial_titulo">Show de Ética</string>
     <string name="button_iniciar_quiz">Iniciar Quiz</string>
     <string name="text_view_pergunta">{Pergunta}</string>
     <string name="button_responder">Responder</string>
@@ -14,5 +14,5 @@
     <string name="text_view_resultado">{Resultado}</string>
     <string name="edit_text_nome">informe um nome para o ranking…</string>
     <string name="button_ranking">Ir para o ranking</string>
-    <string name="titulo">Show da Ética</string>
+    <string name="titulo">Show de Ética</string>
 </resources>
